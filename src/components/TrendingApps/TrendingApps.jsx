@@ -18,21 +18,23 @@ const TrendingApps = () => {
             <p className='mt-4 text-gray-400 text-center mb-10'>Explore All Trending Apps on the Market developed by us</p>
             <div className='grid grid-cols-4 pb-10 gap-y-15 justify-items-center'>
                 {
-                    trendingApps.slice(0, 8).map(tapp =>
-                        <div className='w-[317px] h-[404px] bg-white rounded-xl flex flex-col p-4 justify-between'>
-                            <div className='w-[285px] h-[285px]'>
-                                <img src={tapp.image} className='object-cover w-full h-full rounded-xl' alt="" />
-                            </div>
-                            <h3 className='font-bold text-xl'>{tapp.title}</h3>
-                            <div className='flex justify-between items-center'>
-                                <div className='min-w-[69px] h-[31px] bg-[#F1F5E8] rounded-lg flex justify-center items-center'>
-                                    <p className='text-[#00D390] font-bold'><LiaDownloadSolid className='inline' />{tapp.downloads}</p>
+                    trendingApps.map(tapp =>
+                        <Link to={`/details/${tapp?.id}`}>
+                            <div className='w-79.25 h-101 bg-white rounded-xl flex flex-col p-4 justify-between cursor-pointer active:scale-95 hover:shadow-sm duration-50'>
+                                <div className='w-71.25 h-71.25'>
+                                    <img src={tapp.image} className='object-cover w-full h-full rounded-xl' alt="" />
                                 </div>
-                                <div className='w-[54px] h-[31px] bg-[#FFF0E1] rounded-lg flex justify-center items-center'>
-                                    <p className='text-[#FF8811] font-bold'><MdStar className='inline' /> {tapp.ratingAvg}</p>
+                                <h3 className='font-bold text-xl'>{tapp.title}</h3>
+                                <div className='flex justify-between items-center'>
+                                    <div className='min-w-17.25 h-7.75 bg-[#F1F5E8] rounded-lg flex justify-center items-center'>
+                                        <p className='text-[#00D390] font-bold'><LiaDownloadSolid className='inline' />{tapp.downloads}</p>
+                                    </div>
+                                    <div className='w-13.5 h-7.75 bg-[#FFF0E1] rounded-lg flex justify-center items-center'>
+                                        <p className='text-[#FF8811] font-bold'><MdStar className='inline' /> {tapp.ratingAvg}</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </Link>
                     )
                 }
             </div>
