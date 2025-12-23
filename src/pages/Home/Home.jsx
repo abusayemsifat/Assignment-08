@@ -1,6 +1,7 @@
 import React from 'react';
 import Banner from '../../components/Banner/Banner';
 import Trusted from '../../components/Trusted/Trusted';
+import TrendingApps from '../../components/TrendingApps/TrendingApps';
 
 const Home = () => {
     return (
@@ -8,6 +9,7 @@ const Home = () => {
             <div className=''>
                 <Banner></Banner>
                 <Trusted></Trusted>
+                <TrendingApps></TrendingApps>
             </div>
         </div>
     );
