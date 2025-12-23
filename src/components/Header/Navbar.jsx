@@ -19,7 +19,7 @@ const Navbar = () => {
                     </ul>
                 </div>
 
-                <a className="btn btn-ghost text-xl"><img src={logoImg} alt="" className='w-8 h-8' /> HERO.IO</a>
+                <a className="btn btn-ghost text-xl pl-31"><img src={logoImg} alt="" className='w-8 h-8' /> HERO.IO</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -28,8 +28,8 @@ const Navbar = () => {
                     <li><a>Installation</a></li>
                 </ul>
             </div>
-            <div className="navbar-end">
-                <a className="btn"><img src={githubImg} alt="" className='w-6 h-6' /> Contribute</a>
+            <div className="navbar-end pr-28">
+                <a href='https://github.com/abusayemsifat' target='_blank' className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white"><img src={githubImg} alt="" className='w-6 h-6' /> Contribute</a>
             </div>
         </div>
     );
