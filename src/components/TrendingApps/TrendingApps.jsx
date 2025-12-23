@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { LiaDownloadSolid } from 'react-icons/lia';
 import { MdStar } from 'react-icons/md';
+import { Link } from 'react-router';
 
 const TrendingApps = () => {
     const [trendingApps, setTrendingApps] = useState([]);
@@ -36,7 +37,7 @@ const TrendingApps = () => {
                 }
             </div>
             <div className='flex justify-center'>
-                <a className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white font-bold mx-auto w-30 text-lg">Show All</a>
+                <Link to='/allaps' className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white font-bold mx-auto w-30 text-lg">Show All</Link>
             </div>
         </div>
     );
