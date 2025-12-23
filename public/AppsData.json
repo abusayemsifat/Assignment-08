@@ -268,5 +268,1535 @@
       { "name": "4 star", "count": 1500 },
       { "name": "5 star", "count": 3050 }
     ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Code Editor Pro",
+    "companyName": "DevTools Inc.",
+    "id": 116,
+    "description": "Advanced code editing on the go with syntax highlighting.",
+    "size": 88.3,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Stock Tracker",
+    "companyName": "FinancePro Ltd.",
+    "id": 117,
+    "description": "Real-time stock market tracking and analysis.",
+    "size": 56.7,
+    "reviews": 11200,
+    "ratingAvg": 4.4,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Workout Planner",
+    "companyName": "FitLife Solutions",
+    "id": 118,
+    "description": "Create and track personalized workout routines.",
+    "size": 72.5,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Video Editor Pro",
+    "companyName": "Creative Studio",
+    "id": 119,
+    "description": "Professional video editing tools for mobile.",
+    "size": 132.8,
+    "reviews": 23400,
+    "ratingAvg": 4.8,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 12100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Mindfulness Coach",
+    "companyName": "Peaceful Mind",
+    "id": 120,
+    "description": "Daily mindfulness exercises and meditation.",
+    "size": 48.6,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 4150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Expense Tracker",
+    "companyName": "MoneyManager Inc.",
+    "id": 121,
+    "description": "Track and categorize your daily expenses.",
+    "size": 36.9,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 5900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Language Exchange",
+    "companyName": "Global Connect",
+    "id": 122,
+    "description": "Practice languages with native speakers worldwide.",
+    "size": 64.2,
+    "reviews": 8700,
+    "ratingAvg": 4.3,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Calendar Pro",
+    "companyName": "Schedule Master",
+    "id": 123,
+    "description": "Smart calendar with event scheduling and reminders.",
+    "size": 42.5,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Nutrition Guide",
+    "companyName": "Healthy Eating",
+    "id": 124,
+    "description": "Track nutrition and get healthy meal plans.",
+    "size": 58.7,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Music Maker",
+    "companyName": "Sound Studio",
+    "id": 125,
+    "description": "Create music with virtual instruments and loops.",
+    "size": 156.3,
+    "reviews": 18700,
+    "ratingAvg": 4.6,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Sleep Sounds",
+    "companyName": "Relaxing Sounds",
+    "id": 126,
+    "description": "Soothing sounds for better sleep and relaxation.",
+    "size": 82.4,
+    "reviews": 23400,
+    "ratingAvg": 4.8,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 12600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Flashcards Pro",
+    "companyName": "Study Smart",
+    "id": 127,
+    "description": "Create digital flashcards for effective learning.",
+    "size": 34.8,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Voice Recorder",
+    "companyName": "Audio Pro",
+    "id": 128,
+    "description": "High-quality voice recording and editing.",
+    "size": 47.9,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Habit Tracker",
+    "companyName": "Daily Routine",
+    "id": 129,
+    "description": "Build and track positive daily habits.",
+    "size": 29.6,
+    "reviews": 18700,
+    "ratingAvg": 4.7,
+    "downloads": "3.4M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "PDF Reader Pro",
+    "companyName": "Document Tools",
+    "id": 130,
+    "description": "Advanced PDF reading and annotation tools.",
+    "size": 68.3,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "VPN Secure",
+    "companyName": "Privacy Shield",
+    "id": 131,
+    "description": "Secure VPN service for private browsing.",
+    "size": 52.7,
+    "reviews": 23400,
+    "ratingAvg": 4.3,
+    "downloads": "4.8M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 9900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Yoga Instructor",
+    "companyName": "Mind Body Studio",
+    "id": 132,
+    "description": "Guided yoga sessions for all skill levels.",
+    "size": 96.5,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Password Manager",
+    "companyName": "Secure Vault",
+    "id": 133,
+    "description": "Store and manage passwords securely.",
+    "size": 38.2,
+    "reviews": 18700,
+    "ratingAvg": 4.6,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 9400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Drawing Pad",
+    "companyName": "Art Studio",
+    "id": 134,
+    "description": "Digital drawing and painting application.",
+    "size": 124.8,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Speed Test Pro",
+    "companyName": "Network Tools",
+    "id": 135,
+    "description": "Test your internet connection speed.",
+    "size": 27.9,
+    "reviews": 23400,
+    "ratingAvg": 4.4,
+    "downloads": "5.2M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Recipe Finder",
+    "companyName": "Cook Smart",
+    "id": 136,
+    "description": "Find recipes based on ingredients you have.",
+    "size": 63.4,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 5150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Screen Recorder",
+    "companyName": "Capture Pro",
+    "id": 137,
+    "description": "Record your screen with audio commentary.",
+    "size": 58.6,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": "2.6M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Brain Games",
+    "companyName": "Mind Exercise",
+    "id": 138,
+    "description": "Games to improve memory and cognitive skills.",
+    "size": 87.3,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Currency Converter",
+    "companyName": "Finance Tools",
+    "id": 139,
+    "description": "Real-time currency exchange rates.",
+    "size": 31.5,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Voice Translator",
+    "companyName": "Global Translator",
+    "id": 140,
+    "description": "Real-time voice translation in multiple languages.",
+    "size": 142.7,
+    "reviews": 18700,
+    "ratingAvg": 4.4,
+    "downloads": "3.3M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Document Scanner",
+    "companyName": "Scan Pro",
+    "id": 141,
+    "description": "Scan documents and convert to PDF.",
+    "size": 73.8,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Workout Timer",
+    "companyName": "Fit Timer",
+    "id": 142,
+    "description": "Customizable timer for workout intervals.",
+    "size": 29.4,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Photo Collage",
+    "companyName": "Picture Studio",
+    "id": 143,
+    "description": "Create beautiful photo collages and layouts.",
+    "size": 68.9,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Journal Pro",
+    "companyName": "Daily Journal",
+    "id": 144,
+    "description": "Digital journal with encryption and cloud sync.",
+    "size": 45.6,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "QR Code Scanner",
+    "companyName": "Scan Tools",
+    "id": 145,
+    "description": "Fast and reliable QR code scanner.",
+    "size": 26.7,
+    "reviews": 23400,
+    "ratingAvg": 4.8,
+    "downloads": "4.7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 12600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Math Solver",
+    "companyName": "Study Helper",
+    "id": 146,
+    "description": "Solve math problems with step-by-step solutions.",
+    "size": 58.3,
+    "reviews": 15600,
+    "ratingAvg": 4.6,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Alarm Clock Pro",
+    "companyName": "Wake Up Easy",
+    "id": 147,
+    "description": "Smart alarm clock with sleep tracking.",
+    "size": 39.2,
+    "reviews": 18700,
+    "ratingAvg": 4.5,
+    "downloads": "3.6M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Plant Care Guide",
+    "companyName": "Green Garden",
+    "id": 148,
+    "description": "Care tips and reminders for your plants.",
+    "size": 52.8,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "White Noise",
+    "companyName": "Sound Therapy",
+    "id": 149,
+    "description": "Various white noise sounds for focus and sleep.",
+    "size": 84.6,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Pomodoro Timer",
+    "companyName": "Focus Timer",
+    "id": 150,
+    "description": "Pomodoro technique timer for productivity.",
+    "size": 32.7,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Cloud Storage",
+    "companyName": "Cloud Secure",
+    "id": 151,
+    "description": "Secure cloud storage for your files.",
+    "size": 47.5,
+    "reviews": 23400,
+    "ratingAvg": 4.4,
+    "downloads": "5.1M",
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 9900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Speed Reading",
+    "companyName": "Read Fast",
+    "id": 152,
+    "description": "Improve reading speed and comprehension.",
+    "size": 56.9,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Barcode Scanner",
+    "companyName": "Scan Shop",
+    "id": 153,
+    "description": "Scan barcodes to compare prices and info.",
+    "size": 43.8,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Drink Water Reminder",
+    "companyName": "Health Reminder",
+    "id": 154,
+    "description": "Reminders to stay hydrated throughout the day.",
+    "size": 28.3,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": "2.0M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Color Picker",
+    "companyName": "Design Tools",
+    "id": 155,
+    "description": "Pick colors from images and create palettes.",
+    "size": 36.7,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Crypto Tracker",
+    "companyName": "Crypto Watch",
+    "id": 156,
+    "description": "Track cryptocurrency prices and portfolio.",
+    "size": 62.4,
+    "reviews": 18700,
+    "ratingAvg": 4.4,
+    "downloads": "3.4M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Stopwatch Pro",
+    "companyName": "Precision Timer",
+    "id": 157,
+    "description": "Advanced stopwatch with lap times.",
+    "size": 24.9,
+    "reviews": 13400,
+    "ratingAvg": 4.8,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Vocabulary Builder",
+    "companyName": "Word Master",
+    "id": 158,
+    "description": "Learn new words with flashcards and quizzes.",
+    "size": 48.6,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Flight Tracker",
+    "companyName": "Travel Tools",
+    "id": 159,
+    "description": "Real-time flight status and tracking.",
+    "size": 67.3,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "BMI Calculator",
+    "companyName": "Health Metrics",
+    "id": 160,
+    "description": "Calculate BMI and track health metrics.",
+    "size": 31.8,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Audio Book Player",
+    "companyName": "Listen Pro",
+    "id": 161,
+    "description": "Audiobook player with sleep timer.",
+    "size": 58.4,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Period Tracker",
+    "companyName": "Women's Health",
+    "id": 162,
+    "description": "Track menstrual cycle and symptoms.",
+    "size": 42.7,
+    "reviews": 18700,
+    "ratingAvg": 4.7,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Unit Converter",
+    "companyName": "Convert Pro",
+    "id": 163,
+    "description": "Convert between various units of measurement.",
+    "size": 34.5,
+    "reviews": 13400,
+    "ratingAvg": 4.8,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Social Media Manager",
+    "companyName": "Social Pro",
+    "id": 164,
+    "description": "Schedule and manage social media posts.",
+    "size": 76.8,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": "2.0M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Night Mode",
+    "companyName": "Eye Care",
+    "id": 165,
+    "description": "Blue light filter for better sleep.",
+    "size": 22.7,
+    "reviews": 23400,
+    "ratingAvg": 4.6,
+    "downloads": "5.3M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Running Tracker",
+    "companyName": "Run Pro",
+    "id": 166,
+    "description": "GPS running tracker with route mapping.",
+    "size": 89.3,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Meme Generator",
+    "companyName": "Fun Studio",
+    "id": 167,
+    "description": "Create and share memes easily.",
+    "size": 53.2,
+    "reviews": 8900,
+    "ratingAvg": 4.4,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Call Recorder",
+    "companyName": "Audio Record",
+    "id": 168,
+    "description": "Record phone calls with automatic transcription.",
+    "size": 68.9,
+    "reviews": 13400,
+    "ratingAvg": 4.3,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 5400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Kanban Board",
+    "companyName": "Project Tools",
+    "id": 169,
+    "description": "Visual project management with Kanban boards.",
+    "size": 45.7,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 5150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Compression Tool",
+    "companyName": "File Tools",
+    "id": 170,
+    "description": "Compress and decompress files easily.",
+    "size": 72.4,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "GPS Navigator",
+    "companyName": "Map Pro",
+    "id": 171,
+    "description": "Offline GPS navigation with turn-by-turn.",
+    "size": 156.8,
+    "reviews": 18700,
+    "ratingAvg": 4.6,
+    "downloads": "3.8M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Puzzle Games",
+    "companyName": "Brain Games",
+    "id": 172,
+    "description": "Collection of challenging puzzle games.",
+    "size": 124.6,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Email Client",
+    "companyName": "Mail Pro",
+    "id": 173,
+    "description": "Advanced email client with multiple account support.",
+    "size": 67.9,
+    "reviews": 15600,
+    "ratingAvg": 4.5,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Astronomy Guide",
+    "companyName": "Star Watch",
+    "id": 174,
+    "description": "Identify stars, planets, and constellations.",
+    "size": 142.5,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 4200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Text Editor",
+    "companyName": "Write Pro",
+    "id": 175,
+    "description": "Advanced text editor with markdown support.",
+    "size": 38.4,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "BMI Tracker",
+    "companyName": "Health Track",
+    "id": 176,
+    "description": "Track BMI and weight progress over time.",
+    "size": 41.7,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "File Manager",
+    "companyName": "File Master",
+    "id": 177,
+    "description": "Advanced file manager with cloud integration.",
+    "size": 56.3,
+    "reviews": 15600,
+    "ratingAvg": 4.7,
+    "downloads": "3.0M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Circuit Builder",
+    "companyName": "Electronics Pro",
+    "id": 178,
+    "description": "Build and simulate electronic circuits.",
+    "size": 189.6,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Drum Machine",
+    "companyName": "Music Studio",
+    "id": 179,
+    "description": "Virtual drum machine with various kits.",
+    "size": 134.8,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Study Timer",
+    "companyName": "Study Focus",
+    "id": 180,
+    "description": "Timer with breaks for effective studying.",
+    "size": 36.9,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Receipt Scanner",
+    "companyName": "Expense Pro",
+    "id": 181,
+    "description": "Scan and organize receipts for expenses.",
+    "size": 68.7,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Morse Code",
+    "companyName": "Communication Tools",
+    "id": 182,
+    "description": "Learn and translate Morse code.",
+    "size": 32.4,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 5150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Dictionary Pro",
+    "companyName": "Word Reference",
+    "id": 183,
+    "description": "Comprehensive dictionary with offline support.",
+    "size": 234.8,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 7300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Sudoku Pro",
+    "companyName": "Puzzle Games",
+    "id": 184,
+    "description": "Thousands of Sudoku puzzles of all difficulties.",
+    "size": 46.3,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.5M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Focus Timer",
+    "companyName": "Productivity Pro",
+    "id": 185,
+    "description": "Timer for focused work sessions.",
+    "size": 28.7,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Note Taking",
+    "companyName": "Note Pro",
+    "id": 186,
+    "description": "Advanced note taking with formatting.",
+    "size": 52.6,
+    "reviews": 18700,
+    "ratingAvg": 4.7,
+    "downloads": "3.6M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 8200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Chess Master",
+    "companyName": "Board Games",
+    "id": 187,
+    "description": "Play chess against AI or online opponents.",
+    "size": 124.8,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": "2.2M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Data Backup",
+    "companyName": "Backup Pro",
+    "id": 188,
+    "description": "Automatically backup your important data.",
+    "size": 67.9,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Symptom Checker",
+    "companyName": "Health Check",
+    "id": 189,
+    "description": "Check symptoms and get health information.",
+    "size": 89.3,
+    "reviews": 15600,
+    "ratingAvg": 4.4,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 5600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Book Reader",
+    "companyName": "Read Pro",
+    "id": 190,
+    "description": "Ebook reader with customizable settings.",
+    "size": 58.4,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Guitar Tuner",
+    "companyName": "Music Tools",
+    "id": 191,
+    "description": "Precision guitar tuner with multiple modes.",
+    "size": 42.7,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Language Detector",
+    "companyName": "Language Tools",
+    "id": 192,
+    "description": "Detect language of any text input.",
+    "size": 56.8,
+    "reviews": 11200,
+    "ratingAvg": 4.5,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Time Zone Converter",
+    "companyName": "World Time",
+    "id": 193,
+    "description": "Convert time between different time zones.",
+    "size": 34.2,
+    "reviews": 13400,
+    "ratingAvg": 4.7,
+    "downloads": "2.3M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 6550 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Mind Map",
+    "companyName": "Brainstorm Pro",
+    "id": 194,
+    "description": "Create visual mind maps for ideas.",
+    "size": 78.9,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/whrPfsTF/demo-app-1.webp",
+    "title": "Baby Tracker",
+    "companyName": "Parenting Pro",
+    "id": 195,
+    "description": "Track feeding, sleeping, and diaper changes.",
+    "size": 67.4,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nN9nXsVn/demo-app-2.webp",
+    "title": "Flashlight Pro",
+    "companyName": "Utility Tools",
+    "id": 196,
+    "description": "Bright flashlight with strobe and SOS modes.",
+    "size": 18.6,
+    "reviews": 23400,
+    "ratingAvg": 4.7,
+    "downloads": "5.4M",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 2800 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Zzy3zL83/demo-app-4.webp",
+    "title": "Weather Widget",
+    "companyName": "Widget Pro",
+    "id": 197,
+    "description": "Beautiful weather widget for home screen.",
+    "size": 23.8,
+    "reviews": 15600,
+    "ratingAvg": 4.6,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 6800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zTMFgvD0/demo-app-6.webp",
+    "title": "Sound Meter",
+    "companyName": "Audio Tools",
+    "id": 198,
+    "description": "Measure sound levels in decibels.",
+    "size": 36.5,
+    "reviews": 8900,
+    "ratingAvg": 4.5,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qLc1MMgx/demo-app-3.webp",
+    "title": "Ruler Pro",
+    "companyName": "Measurement Tools",
+    "id": 199,
+    "description": "Digital ruler for accurate measurements.",
+    "size": 29.7,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "2.0M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 5150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dwqsCK7q/demo-app-5.webp",
+    "title": "Speed Calculator",
+    "companyName": "Math Tools",
+    "id": 200,
+    "description": "Calculate speed, distance, and time.",
+    "size": 31.4,
+    "reviews": 8900,
+    "ratingAvg": 4.6,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 3900 }
+    ]
   }
 ]
