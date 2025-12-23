@@ -12,8 +12,8 @@ const Banner = () => {
             </div>
             <h4 className='text-center text-[#627382] mt-4 pb-10 text-xl'>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br />Our goal is to turn your ideas into digital experiences that truly make an impact.</h4>
             <div className='pb-10 mx-auto'>
-                <button className="btn mr-4"><img src={googleImg} alt="" className='w-30'/></button>
-                <button className="btn"><img src={appleImg} alt="" className='w-30'/></button>
+                <a href='https://play.google.com/' target='_blank' className="btn mr-4"><img src={googleImg} alt="" className='w-30'/></a>
+                <a href='https://www.apple.com/app-store/' target='_blank' className="btn"><img src={appleImg} alt="" className='w-30'/></a>
             </div>
             <img src={heroImg} className='w-3xl mx-auto' alt="" />
         </div>

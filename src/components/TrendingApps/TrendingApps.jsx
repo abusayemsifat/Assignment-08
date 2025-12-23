@@ -12,15 +12,15 @@ const TrendingApps = () => {
             .catch(err => console.log(err))
     }, [])
     return (
-        <div className='max-w-11/12 mx-auto pt-20'>
+        <div className='max-w-11/12 mx-auto pt-20 pb-20'>
             <h1 className='text-5xl text-center font-bold'>Trending Apps</h1>
             <p className='mt-4 text-gray-400 text-center mb-10'>Explore All Trending Apps on the Market developed by us</p>
-            <div className='grid grid-cols-4 pb-10 gap-y-15'>
+            <div className='grid grid-cols-4 pb-10 gap-y-15 justify-items-center'>
                 {
-                    trendingApps.map(tapp =>
+                    trendingApps.slice(0, 8).map(tapp =>
                         <div className='w-[317px] h-[404px] bg-white rounded-xl flex flex-col p-4 justify-between'>
                             <div className='w-[285px] h-[285px]'>
-                                <img src={tapp.image} alt="" />
+                                <img src={tapp.image} className='object-cover w-full h-full rounded-xl' alt="" />
                             </div>
                             <h3 className='font-bold text-xl'>{tapp.title}</h3>
                             <div className='flex justify-between items-center'>
@@ -34,6 +34,9 @@ const TrendingApps = () => {
                         </div>
                     )
                 }
+            </div>
+            <div className='flex justify-center'>
+                <a className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-white font-bold mx-auto w-30 text-lg">Show All</a>
             </div>
         </div>
     );
