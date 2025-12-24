@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { LiaDownloadSolid } from 'react-icons/lia';
 import { MdReviews, MdStar } from 'react-icons/md';
 import { useParams } from 'react-router';
+import { addToInstalledDB } from '../../utility/addToDB';
 
 const AppDetails = () => {
 
@@ -9,6 +10,7 @@ const AppDetails = () => {
 
     const { id } = useParams()
     const [loading, setLoading] = useState(true)
+    const [isInstalled, setIsInstalled] = useState(false);
 
     useEffect(() => {
         fetch('/AppsData.json')
@@ -21,6 +23,11 @@ const AppDetails = () => {
     }, [])
 
     const findResult = trendingApps.find(app => app.id == id)
+
+    const handleInstall = (id) =>{
+        addToInstalledDB(id)
+        setIsInstalled(true)
+    }
 
     if (loading) {
         return (
@@ -56,7 +63,7 @@ const AppDetails = () => {
                                 <h1 className='text-5xl font-bold'>{findResult.reviews}</h1>
                             </div>
                         </div>
-                        <button className='w-[239px] h-[52px] mt-5 bg-[#00D390] text-white text-xl rounded-lg cursor-pointer active:scale-95 hover:opacity-95'>Install Now ({findResult.size} MB)</button>
+                        <button onClick={()=>handleInstall(findResult.id)} disabled={!isInstalled} className='w-[239px] h-[52px] mt-5 bg-[#00D390] text-white text-xl rounded-lg cursor-pointer active:scale-95 hover:opacity-95'>Install Now ({findResult.size} MB)</button>
                     </div>
                 </div>
                 <h2 className='text-2xl font-bold py-2'>Description</h2>
